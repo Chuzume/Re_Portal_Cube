@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:ender_dragon",
+    "minecraft:armor_stand",
+    "minecraft:item_frame",
+    "minecraft:painting",
+    "minecraft:experience_orb",
+    "minecraft:area_effect_cloud"
+  ]
+}

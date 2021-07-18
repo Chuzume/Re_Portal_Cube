@@ -1,0 +1,7 @@
+# スコアボード生成
+    scoreboard objectives add Re_P.Cube_Ready dummy
+    scoreboard objectives add Re_P.Cube_Sneak minecraft.custom:minecraft.sneak_time
+    scoreboard objectives add Re_P.Cube_Color dummy
+
+# やぶやぶやーぶや
+    data modify storage yv:custom_crafter Import append value {Pattern:[{Slot:1b,id:"minecraft:iron_ingot",Count:1b},{Slot:2b,id:"minecraft:white_carpet",Count:1b},{Slot:3b,id:"minecraft:iron_ingot",Count:1b},{Slot:10b,id:"minecraft:iron_ingot",Count:1b},{Slot:11b,id:"minecraft:ender_eye",Count:1b},{Slot:12b,id:"minecraft:iron_ingot",Count:1b},{Slot:19b,id:"minecraft:iron_block",Count:1b},{Slot:20b,id:"minecraft:redstone_block",Count:1b},{Slot:21b,id:"minecraft:iron_block",Count:1b}],Result:{Slot:15b,id:"minecraft:armor_stand",Count:2b,tag:{EntityTag:{NoGravity:1b,Small:1b,DisabledSlots:4144959,Invisible:1b,Tags:["Re_P.Cube_Place","Re_P.Cube_Base"]},HideFlags:1,display:{Lore:['{"text":" "}','{"text":"[Sneak: Use portal]","color":"white","italic":false}','{"text":"[Drop dye: Change Color]","color":"white","italic":false}','{"text":" "}','{"text":"金属の枠に閉じ込めた、小さなポータル。","color":"white","italic":false}','{"text":"はるか遠くに移動するのに便利。","color":"white","italic":false}'],Name:'{"text":"Re:Portal Cube","color":"aqua","italic":false}'},Enchantments:[{lvl:1s,id:"minecraft:protection"}]}}}
